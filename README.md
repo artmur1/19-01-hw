@@ -45,3 +45,45 @@
 ---
 
 ## Решение
+
+Получил бесплатную версию Jira, создал доски Kanban и Scrum:
+
+![alt text](https://github.com/artmur1/19-01-hw/blob/main/img/19-01-01-hw.png)
+
+Создал задачи двух типов:
+
+![alt text](https://github.com/artmur1/19-01-hw/blob/main/img/19-01-02-hw.png)
+
+Создал собственные workflow для двух типов задач, добавил статусы в Kanban:
+
+![alt text](https://github.com/artmur1/19-01-hw/blob/main/img/19-01-03-hw.png)
+
+workflow для bug:
+
+![alt text](https://github.com/artmur1/19-01-hw/blob/main/img/19-01-04-hw.png)
+
+workflow для остальных типов задач:
+
+![alt text](https://github.com/artmur1/19-01-hw/blob/main/img/19-01-05-hw.png)
+
+Провел задачу bug по всему workflow до Done:
+
+![alt text](https://github.com/artmur1/19-01-hw/blob/main/img/19-01-06-hw.png)
+
+![alt text](https://github.com/artmur1/19-01-hw/blob/main/img/19-01-07-hw.png)
+
+Провел задачу epic по всему workflow до Done:
+
+![alt text](https://github.com/artmur1/19-01-hw/blob/main/img/19-01-08-hw.png)
+
+Провел те же действия на доске Scrum:
+
+![alt text](https://github.com/artmur1/19-01-hw/blob/main/img/19-01-09-hw.png)
+
+![alt text](https://github.com/artmur1/19-01-hw/blob/main/img/19-01-10-hw.png)
+
+Схемы workflow:
+
+bug - https://github.com/artmur1/19-01-hw/blob/main/sheme/bug_workflow.xml
+
+other_types - https://github.com/artmur1/19-01-hw/blob/main/sheme/other_types_workflow.xml
